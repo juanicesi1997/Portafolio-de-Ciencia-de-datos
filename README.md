@@ -44,7 +44,7 @@ Este portafolio demuestra mis habilidades y conocimientos en ciencia de datos, i
 [En desarrollo]
 
 ## 📫 Contacto
-[Agregar información de contacto]
+[Juandanielperez.data@gmail.com]
 
 ## 📝 Licencia
 Este proyecto está bajo la Licencia MIT.
