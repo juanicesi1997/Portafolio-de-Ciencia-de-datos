@@ -1,6 +1,7 @@
 # Portafolio de Ciencia de Datos
 
 ¡Bienvenidos a mi portafolio de ciencia de datos! 
+
 Soy Juan Daniel Perez y este repositorio documenta mi viaje y crecimiento en el campo de la ciencia de datos, desde conceptos básicos hasta implementaciones avanzadas.
 
 ## 🎯 Objetivo
